@@ -31,3 +31,7 @@ body{
 #logo{
     width: 20px;
 }
+#footer{
+    background-color: black;
+    color: white;
+}

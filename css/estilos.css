@@ -27,3 +27,7 @@ body{
 #container h1{
     font-size: 70 px;
 }
+
+#logo{
+    width: 20px;
+}

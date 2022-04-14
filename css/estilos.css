@@ -27,3 +27,8 @@ body{
 #container h1{
     font-size: 70 px;
 }
+
+#footer{
+    background-color: black;
+    color: white;
+}
